@@ -1,3 +1,5 @@
-# data-science-from-scratch
+# finding key connectors
 
-Code and exercises of Joel Grus' (2nd Edition) book.
+Chapter 1
+
+p.3
